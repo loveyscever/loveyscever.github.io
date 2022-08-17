@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/com/xf/jf/ButtonListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/jf/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/jf/LoginJF.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/jf/RegisterLisener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/mian/GameWin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/obj/Bgobj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/obj/Bossfireobj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/obj/Bossobj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/obj/Enemyobj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/obj/Explodeobj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/obj/Fireobj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/obj/GameObj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/obj/Planeobj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/xf/utils/GameUtils.java" charset="GBK" />
+  </component>
+</project>
